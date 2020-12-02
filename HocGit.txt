@@ -3,7 +3,7 @@
 
 int main()
 {
-
+  printf("HocGit");
 
   return 0;
 }
